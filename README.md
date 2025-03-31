@@ -44,9 +44,7 @@ Before using this launcher, ensure you have the following:
 Run the following commands in the launcher’s directory:
 
 ```sh
-pip install pyqt5
-pip install adb-shell
-pip install configparser
+pip install tkinter configparser pyqt5 adb-shell
 ```
 
 ---
