@@ -141,3 +141,21 @@ This project is open-source under the **MIT License**. Feel free to contribute a
 
 ### ⭐ Enjoy using Scrcpy Launcher? Give it a star on GitHub! ⭐
 
+
+
+
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+<sub>Made with love ❤️‍🔥 by Moh ([Discord @m7i1](https://discord.com))</sub>
+
+
+
+
