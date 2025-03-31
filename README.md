@@ -144,16 +144,16 @@ This project is open-source under the **MIT License**. Feel free to contribute a
 
 
 
-<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">@m7i1</a>)</small></p>
+<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">discord @m7i1</a>)</small></p>
 
-<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">@m7i1</a>)</small></p>
+<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">discord @m7i1</a>)</small></p>
 
-<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">@m7i1</a>)</small></p>
+<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">discord@m7i1</a>)</small></p>
 
-<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">@m7i1</a>)</small></p>
+<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">discord@m7i1</a>)</small></p>
 
-<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">@m7i1</a>)</small></p>
+<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">discord @m7i1</a>)</small></p>
 
-<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">@m7i1</a>)</small></p>
+<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">discord @m7i1</a>)</small></p>
 
-<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">@m7i1</a>)</small></p>
+<p><small>Made with love ❤️‍🔥 by Moh (<a href="https://discord.com">discord @m7i1</a>)</small></p>
