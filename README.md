@@ -71,9 +71,8 @@ Before using the launcher, you need to configure it properly. Follow these steps
 
 1. Open **Developer Options** on your Android phone.
 2. Enable **Wireless Debugging**.
-3. Tap **Pair Device with Pairing Code**.
-4. Note the **IP Address** and **Port** shown.
-5. In the **Launcher Settings**, enter this **IP**\*\*:Port\*\* under "Wireless Settings".
+3. Note the **IP Address** and **Port** shown.
+4. In the **Launcher Settings**, enter this **IP**\*\*:Port\*\* under "Wireless Settings".
 
 ### 4️⃣ Set Custom App Icon (Optional)
 
